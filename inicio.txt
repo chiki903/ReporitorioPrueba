@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 hola soy lili de Estados unidos
 
 
 
+=======
+>>>>>>> parent of b51bc31 (Cambio #2)
